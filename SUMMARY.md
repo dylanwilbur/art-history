@@ -1,6 +1,6 @@
 # Art History
 
-* [Unit 8](unit8.md)
+* [Unit 8](unit8/unit8.md)
   * [127.The Steerage.](unit8/127.The Steerage..md)
   * [133.Self-Portrait as a Soldier.](unit8/133.Self-Portrait as a Soldier..md)
   * [134.Memorial Sheet for Karl Liebknecht.](unit8/134.Memorial Sheet for Karl Liebknecht..md)
@@ -12,13 +12,13 @@
   * [141.The Migration of the Negro, Panel no. 49.](unit8/141.The Migration of the Negro, Panel no. 49..md)
   * [142.The Jungle.](unit8/142.The Jungle..md)
   * [143.Dream of a Sunday Afternoon in the Alameda Park.](unit8/143.Dream of a Sunday Afternoon in the Alameda Park..md)
-  * [144.Fountain (second version).](<unit8/144.Fountain (second version)..md>)
+  * [144.Fountain (second version).](unit8/144.Fountain %28second version%29..md)
   * [145.Woman, I. Willem de Kooning.](unit8/145.Woman, I. Willem de Kooning..md)
   * [146.Seagram Building.](unit8/146.Seagram Building..md)
   * [147.Marilyn Diptych.](unit8/147.Marilyn Diptych..md)
   * [148.Narcissus Garden.](unit8/148.Narcissus Garden..md)
   * [149.The Bay.](unit8/149.The Bay..md)
-  * [150.Lipstick (Ascending) on Caterpillar Tracks.](<unit8/150.Lipstick (Ascending) on Caterpillar Tracks..md>)
+  * [150.Lipstick (Ascending) on Caterpillar Tracks.](<unit8/150.Lipstick \(Ascending\) on Caterpillar Tracks..md>)
   * [151.Spiral Jetty.](unit8/151.Spiral Jetty..md)
   * [152.House in New Castle County.](unit8/152.House in New Castle County..md)
   * [Bridgework Improvisation 28](unit8/bridgework improvisation 28.md)
