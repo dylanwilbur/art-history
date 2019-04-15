@@ -3,7 +3,7 @@
 - Unit 3
   * [12.White Temple and its ziggurat.](unit3/12.White Temple and its ziggurat..md)
   * [13.Palette of King Narmer](unit3/13.Palette of King Narmer.md)
-  * [14.Statues of votive figures, from the Square Temple at Eshnunna (modern Tell Asmar, Iraq)](unit3/14.Statues of votive figures, from the Square Temple at Eshnunna (modern Tell Asmar, Iraq).md)
+  * [14.Statues of votive figures, from the Square Temple at Eshnunna \`(modern Tell Asmar, Iraq\`)](unit3/14.Statues of votive figures, from the Square Temple at Eshnunna (modern Tell Asmar, Iraq).md)
   * [15.Seated scribe. Saqqara, Egypt](unit3/15.Seated scribe. Saqqara, Egypt.md)
   * [16.Standard of Ur from the Royal Tombs at Ur (modern Tell el-Muqayyar, Iraq)](unit3/16.Standard of Ur from the Royal Tombs at Ur (modern Tell el-Muqayyar, Iraq).md)
   * [17.Great Pyramids (Menkaura, Khafre, Khufu) and Great Sphinx.](unit3/17.Great Pyramids (Menkaura, Khafre, Khufu) and Great Sphinx..md)
