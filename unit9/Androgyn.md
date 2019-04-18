@@ -1,0 +1,21 @@
+<!-- order:9 -->
+## Androgyn
+- hunched over, emphasizes defeat
+- like seated boxer
+- anthropomorphic form
+- hollow
+- only full and human from one angle
+- scars on the back
+- family was of nobility, came under harsh nazi then soviet rule
+- art is an expression of what its like to be taken over, reduced to a mass of people, takes away your individuality
+- made of burlap and resin
+- on almost a stretcher where the dead would be carried out
+- external identity vs internal at the same time
+- each body gets a different texture: what its like to survive authoritarian rule
+- oppression leaves its mark differently on each person
+- cast is the same, fiber is different
+- about existance
+- relationship between the individual and the group
+- face can lie but the back cannot
+- enduring, but dying inside
+- power is in the group

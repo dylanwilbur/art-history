@@ -1,0 +1,31 @@
+<!-- order:1 -->
+## The gates
+- specializes in site specific work that uses fabric
+- temporary
+- site specific
+- vast rural and u
+- 40 years in the making
+- many different pathways through the park
+- winter chosen deliberately
+- color of sunshine contrasts with 
+- make life in the winter happier and healthier
+- produces positive effects in the minds of people
+- makes you interact with the environment in a new way
+- battling burocracy
+- they charge nothing
+- they employ people of the region
+- boosts local economy
+- lasted only 16 days
+- 7500 gates
+- 16 feet high, varying width
+- 23 miles
+- moving fabric underlines the moving and winding nature of the footpaths
+- rectangular holes are a reminder of the fact that nyc is built as a grid
+- all local workers
+- shows what they think art should be
+- democratic process
+- temporary public art gives a sense of urgency
+- like shinto shrines:
+- nature worship
+- transition into sacred space
+- color is like the buddhist monk robes
