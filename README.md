@@ -24,7 +24,7 @@ Searching on the wiki uses a highly adaptable search engine([Lunr](https://lunrj
 More info [here](https://lunrjs.com/guides/searching.html)
 
 ## Contributing
-This project is version controlled with git, so for those inclined, the source is hosted on github [here](https://github.com/dylanwilbur/art-history). Since the notes are not all conclusive in the slightest, I welcome any and all additions or changes. You can learn to do so through [this app](https://desktop.github.com/).
+This project is version controlled with git, so for those inclined, the source is hosted on github [here](https://github.com/dylanwilbur/art-history). Since the notes are not conclusive in the slightest, I welcome any and all additions or changes. You can learn to do so through [this app](https://desktop.github.com/).
 
 #### What needs work
 - Images for the 250 works
